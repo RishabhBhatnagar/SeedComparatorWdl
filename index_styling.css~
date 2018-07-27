@@ -1,0 +1,29 @@
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    border: 1px solid black;
+    padding: 0px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+
+#seed_block {
+    background-color: lightgrey;
+    border: 5px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+
+#seed_name{
+    color: #7777ff;
+}
+
+#seed_image {
+    width: auto;
+    height: 150px;
+}
