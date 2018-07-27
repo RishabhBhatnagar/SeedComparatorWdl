@@ -10,31 +10,36 @@
                 </td>
                 <td>
                     <div id="seed_block">
-                        <center><h3 id="seed_name">IIT Bombay</h3><center>
+                        <center><h3 id="seed_name">Fenugreek</h3><center>
                         <img id="seed_image" src = "" >                 
                     </div>  
                 </td>
                 <td>
                     <div id="seed_block">
-                        <h3 id="seed_name">IIT Bombay</h3>
+                        <h3 id="seed_name">Mango</h3>
                         <img id="seed_image" src = "" >
                     </div>
                 </td>
                 <td>
                     <div id="seed_block">
-                        <h3 id="seed_name">IIT Bombay</h3>
+                        <h3 id="seed_name">Lantana</h3>
                         <img id="seed_image" src = "" >
                     </div>
                 </td>
                 <td>
                     <div id="seed_block">
-                        <h3 id="seed_name">IIT Bombay</h3>
+                        <h3 id="seed_name">Aubergine    </h3>
                         <img id="seed_image" src = "" >
                     </div>
                 </td>
             <tr>
             <tr>
-                <td></td>
+                <th>Length of the seed</td>
+                <td> 4.01 to 4.19mm</td><td>4 to 7cm</td><td>3 to 4 mm</td><td>1 to 3 mm</td>
+            </tr>
+            <tr>
+                <th>Family</td>
+                <td> Solanaceae</td><td>4 to 7cm</td><td>3 to 4 mm</td><td>1 to 3 mm</td>
             </tr>
         </table>
     </body>
